@@ -171,10 +171,6 @@ cis-hardening-toolkit/
 └── README_RU.md
 ```
 
-## Лицензия
-
-MIT License. Подробнее в [LICENSE](LICENSE).
-
 
 
 
