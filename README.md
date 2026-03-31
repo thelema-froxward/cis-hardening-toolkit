@@ -64,7 +64,7 @@ These scripts pair with [wazuh-protection-with-telegram-alerts](https://github.c
 
 ## Project Structure
 
-
+```
 cis-hardening-toolkit/
 ├── linux/
 │   ├── ssh_hardening.sh
@@ -82,7 +82,7 @@ cis-hardening-toolkit/
 │   └── CHANGELOG.md
 ├── LICENSE
 └── README.md
-
+```
 # ================== RUSSIAN README ==================
 # CIS Hardening Toolkit
 
